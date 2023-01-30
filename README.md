@@ -11,7 +11,7 @@ Indian Cricket Team
 2. Ravindra Jadeja
 3. Ashwin 
 
-Other Cricket Teams
+
 -------
 * Australia Cricket Team
 * Bangladesh Cricket Team
