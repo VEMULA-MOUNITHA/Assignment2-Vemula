@@ -67,5 +67,6 @@ function exclude_post_categories($excl='', $spacer=' ') {
     }
     }
   }
-  
+
 ```
+> code snippets of above code (https://css-tricks.com/snippets/wordpress/the_category-excludes/)
