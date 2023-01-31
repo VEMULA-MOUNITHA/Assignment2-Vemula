@@ -40,7 +40,9 @@ Below table describes about the countries which I wish to vist and I would like 
 
 > “only Married People Can Understand How You Can Be Miserable And Happy At The Same Time." *Chris Rock*
 
-
-
+-------
+### Code Fencing
+-------
+[Wordpress config misbehaving in opposite ways using two configs] (https://stackoverflow.com/questions/75289444/wordpress-config-misbehaving-in-opposite-ways-using-two-configs)
 
 
