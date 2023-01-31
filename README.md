@@ -36,6 +36,8 @@ Below table describes about the countries which I wish to vist and I would like 
 ### Pithy Quotes
 
 > “Nothing sucks more than that moment during an argument when you realize you’re wrong.”
+
+
 > “Think of how stupid the average person is, and realize half of them are stupider than that.” 
 
 --------
