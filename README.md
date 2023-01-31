@@ -45,4 +45,16 @@ Below table describes about the countries which I wish to vist and I would like 
 -------
 > Wordpress config misbehaving in opposite ways using two configs (https://stackoverflow.com/questions/75289444/wordpress-config-misbehaving-in-opposite-ways-using-two-configs)
 
+------
+
+<?php query_posts('cat=-3'); ?>
+
+<?php if (have_posts()) : ?>
+<?php while (have_posts()) : the_post(); ?>
+  <h3></h3>	
+  <p><?php the_time('F jS, Y') ?></p>
+  <?php the_content(); ?>
+<?php endwhile; ?>
+
+-----
 
