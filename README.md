@@ -17,7 +17,7 @@ Indian Cricket Team
 * Bangladesh Cricket Team
 * Newzland Cricket Team 
 
-> Link to AboutMe.md (https://github.com/VEMULA-MOUNITHA/assignment2-Vemula/blob/main/AboutMe.md)
+> Link to AboutMe.md <https://github.com/VEMULA-MOUNITHA/assignment2-Vemula/blob/main/AboutMe.md>
 
 ------
 ### Countries
@@ -43,7 +43,7 @@ Below table describes about the countries which I wish to vist and I would like 
 -------
 ### Code Fencing
 -------
-> Wordpress config misbehaving in opposite ways using two configs (https://stackoverflow.com/questions/75289444/wordpress-config-misbehaving-in-opposite-ways-using-two-configs)
+> Wordpress config misbehaving in opposite ways using two configs <https://stackoverflow.com/questions/75289444/wordpress-config-misbehaving-in-opposite-ways-using-two-configs>
 
 
 ```
@@ -69,4 +69,4 @@ function exclude_post_categories($excl='', $spacer=' ') {
   }
 
 ```
-> code snippets of above code (https://css-tricks.com/snippets/wordpress/the_category-excludes/)
+> code snippets of above code <https://css-tricks.com/snippets/wordpress/the_category-excludes/>
